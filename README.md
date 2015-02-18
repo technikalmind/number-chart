@@ -21,12 +21,13 @@ Try it with different constants between the numbers (+8; +9; etc)
 
 72+8 = 80 = 8
 
-
+---------------------------
 
 16+9 = 25 = 7
 
 25+9 = 34 = 7
 
+---------------------------
 
 16+1 = 17 = 8
 
@@ -35,5 +36,3 @@ Try it with different constants between the numbers (+8; +9; etc)
 18+1 = 19 = 1
 
 19+1 = 20 = 2
-
-
