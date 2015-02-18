@@ -1,9 +1,13 @@
 # number-chart
 Take a double digit number, split each digit into two seperate digits, and add those two together. Then display in a chart.
+---------------------------
+
+16  = 1+6 = 7...
+
+---------------------------
 
 Try it with different constants between the numbers (+8; +9; etc)
 
-16  = 1+6 = 7...
 
 16+8 = 24 = 6
 
